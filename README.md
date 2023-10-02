@@ -1,5 +1,5 @@
 
-# sshmysql-example
+# ssh mysql java example
 mysql via ssh
 
 Dieses Java Programm baut eine Verbindung zu einer MySQLDB auf die hinter einem SSH Server erreichbar ist
