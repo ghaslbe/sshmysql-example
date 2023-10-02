@@ -1,8 +1,9 @@
 
-# ssh mysql java example
+# ssh mysql smtp java example
 mysql via ssh
 
-Dieses Java Programm baut eine Verbindung zu einer MySQLDB auf die hinter einem SSH Server erreichbar ist
+Dieses Java Programm baut eine Verbindung zu einer MySQLDB auf die hinter einem SSH Server erreichbar ist.
+Das Ergebnis der SQL Abfrage wird per E-Mail versendet.
 
 
 1) Config erstellen
