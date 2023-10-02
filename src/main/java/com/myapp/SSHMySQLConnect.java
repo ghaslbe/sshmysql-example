@@ -57,7 +57,7 @@ public class SSHMySQLConnect {
             String result = executeSQLQuery(connection, "SELECT count(*) as cnt FROM theuser");
             System.out.println("result:"+result);
             sendEmail("recipientEmail@example.com", "SQL Results", result);  // Ändere den Empfänger nach Bedarf
-            System.out.println("all done"");
+            System.out.println("all done");
 
         } catch (Exception e) {
             e.printStackTrace();
