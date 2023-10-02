@@ -31,3 +31,4 @@ Dieser Befehl sagt Java, die .jar-Datei zu verwenden und die main-Methode der SS
 
 Wenn du eine integrierte Entwicklungsumgebung (IDE) wie Eclipse, IntelliJ IDEA oder NetBeans verwendest, kannst du das Programm auch direkt von dort aus starten, nachdem du das Maven-Projekt in deine IDE importiert hast. In den meisten IDEs reicht es aus, mit der rechten Maustaste auf die SSHMySQLConnect-Klasse zu klicken und "Run" oder "Execute" auszuwählen.
 
+https://www.guentherhaslbeck.de/mysql-hinter-ssh-aufrufen/
